@@ -2,7 +2,7 @@
 
 This code exploits the hidden consent grant attack which leverages the Directory.ReadWrite.all application permission.
 
-## running the tool
+## Usage
 
 1. Run the tool
 ```
