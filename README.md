@@ -2,6 +2,9 @@
 
 This code exploits the hidden consent grant attack which leverages the Directory.ReadWrite.all application permission.
 
+## Pre-requirements
+1. Create certificate and private key (or use the given pair of certificate and key from the repository).
+
 ## Usage
 
 1. Run the tool
