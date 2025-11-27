@@ -16,3 +16,6 @@ This code exploits the hidden consent grant attack which leverages the Directory
 2. Launch the "non-malicious" page.
 3. get the access tokens
 4. have fun!
+
+## Link to blog
+https://www.semperis.com/blog/app-consent-attack-hidden-consent-grant/
